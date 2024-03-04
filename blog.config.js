@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Life-meaningless Co., Ltd.',
   author: 'Koi',
   email: 'yshsilent@gmail.com',
-  link: 'https://life-meaningless.icu',
+  link: 'https://life-meaningless-nobelum.vercel.app',
   description: '人生没有意义，为何不疯狂一把？',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
